@@ -1,0 +1,1 @@
+This presentation was created with some simple animations to understand how the SIC assembler converts mnemonic operational codes to their machine language equivalent with an example.
